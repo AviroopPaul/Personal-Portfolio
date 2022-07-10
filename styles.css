@@ -222,7 +222,7 @@
       font-size: 20px;
     }
   }
-  @media screen and (max-width: 420px) {
+  @media screen and (max-width: 430px) {
     .navbar_logo{
       font-size: 15px;
     }
