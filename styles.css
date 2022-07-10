@@ -338,9 +338,6 @@
   @media screen and (max-width: 570px){
     .hero_heading{
       font-size:  20px;
-  
-      overflow-wrap: break-word;
-      /* animation-name: none; */
       border-right: 3px solid white;
     }
     .hero_description{
