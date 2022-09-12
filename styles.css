@@ -355,6 +355,9 @@
         width: 300px;
       }
     }
+    .hero_description{
+      font-size: 12px;
+    }
   }
   @media screen and (max-width: 570px) and (min-width:420px){
     .hero_heading{
@@ -525,8 +528,8 @@
 
   .main_img-card{
     margin: 10px;
-    height: 500px;
-    width: 500px;
+    height: 400px;
+    width: 400px;
     border-radius: 4px;
     display: flex;
     flex-direction: column;
