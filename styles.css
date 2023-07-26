@@ -6,6 +6,7 @@
     scroll-behavior: smooth;
 }
 
+
 .navbar{
 
     background: black;
@@ -619,6 +620,13 @@
       font-size: 15px;
       word-wrap: normal;
     }
+    .main_content h1 {
+      font-size: 25px;
+      margin-top: 3rem;
+    }
+    .main_content h2 {
+      font-size: 30px;
+    }
   }
   @media screen and (max-width: 480px) {
     .main_img-card {
@@ -632,11 +640,11 @@
     }
   
     .main_content h1 {
-      font-size: 2rem;
+      font-size: 25px;
       margin-top: 3rem;
     }
     .main_content h2 {
-      font-size: 40px;
+      font-size: 30px;
     }
   
     .main_content p {
